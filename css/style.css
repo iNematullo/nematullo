@@ -320,6 +320,7 @@ button:focus {
   background: linear-gradient(rgba(80, 133, 152, 0.4), rgba(56, 96, 119, 0.3)), url(../img/banner/neo-banner.jpg) no-repeat scroll center center;
   background-size: cover;
   margin-bottom: 100px;
+  height: 100vh;
 }
 .home_banner_area .banner_inner {
   position: relative;
