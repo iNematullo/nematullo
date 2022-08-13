@@ -3509,6 +3509,7 @@ h6 {
 }
 .h_gallery_item:hover .g_item_text h4:hover {
   color: #0c8281;
+  cursor: pointer;
 }
 
 .more_btn {
