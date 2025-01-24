@@ -408,4 +408,7 @@ $(document).ready(function () {
     $('#showp6').click(function () {
         $('.menup6').toggle("slide");
     });
+    $('#showp7').click(function () {
+        $('.menup7').toggle("slide");
+    });
 });
